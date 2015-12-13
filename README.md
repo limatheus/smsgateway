@@ -65,8 +65,8 @@ To publish the default configuration file, execute the following command:
 php artisan vendor:publish
 ```
 
-### Todos
-
+ Todos
+----
  - Improve the documentation
  - Code examples
  - Write Tests
