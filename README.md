@@ -57,6 +57,14 @@ In order to use the `SmsGateway` facade, you need to register it on the `config/
 // file END ommited
 ```
 
+### 4. Publishing configuration 
+
+To publish the default configuration file, execute the following command:
+
+```shell
+php artisan vendor:publish
+```
+
 ### Todos
 
  - Improve the documentation
