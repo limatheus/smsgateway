@@ -65,6 +65,19 @@ To publish the default configuration file, execute the following command:
 php artisan vendor:publish
 ```
 
+### 5. Set your credentials
+In order to use the `SmsGateway`, you need set your crendials  on the `config/smsgateway.php` file, you can do that the following way:
+
+```php
+// smsgateway.php  config file
+// file START ommited
+    return [
+        'email' => 'demo@smsgateway.me',
+        'password' => 'your.password'
+    ];
+// file END ommited
+```
+
  Todos
 ----
  - Improve the documentation
