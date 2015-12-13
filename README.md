@@ -7,7 +7,7 @@ This package help you to send SMS through the smsGateway from your Laravel APP.
 ## Instructions
 
 ### 1. Download the APP on Google Play
-<a href="https://play.google.com/store/apps/details?id=networked.solutions.sms.gateway.api" target="_blank"><img src="https://smsgateway.me/assets/img/badge-google-play.svg" width="200" height="65" alt="smsgateway"/></a>
+<a href="https://play.google.com/store/apps/details?id=networked.solutions.sms.gateway.api" target="_blank"><img src="http://smsgateway.me/assets/img/badge-google-play.svg" width="200" height="65" alt="smsgateway"/></a>
 
 ### 2. Sign Up For Free
 You need <a href="https://play.google.com/store/apps/details?id=networked.solutions.sms.gateway.api" target="_blank">sign up</a> to use the API.
