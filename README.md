@@ -15,7 +15,7 @@ You need <a href="https://smsgateway.me/admin/users/login#signup" target="_blank
 ### 3. Read the Wiki
 You can read the <a href="https://github.com/limatheus/smsgateway/wiki">Wiki</a> to get more informations.
 
- Todos
+ To Do
 ----
  - [x] Improve the documentation
  - [x] Code examples
